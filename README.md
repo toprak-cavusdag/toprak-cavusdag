@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Toprak, a full-time Frontend developer 👨‍💻 working since 2020 🚀</div>  
+### <div align="center">I'm Toprak, a full-time Frontend developer 👨‍💻 working since 2021 🚀</div>  
   
 
 - 🌱 I’m currently learning Node.js and Next.js  
