@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://media.licdn.com/dms/image/C4D03AQFldpWWkcJkhA/profile-displayphoto-shrink_800_800/0/1662842138369?e=1715212800&v=beta&t=7qRq78sNJZqKx6b1fYZj46ClXWDZPyoCWDeZckVbfgA" align="center" style="width: 200px" height="200px" width="200px" />
-</div>  
+
   
 
 ### <div align="center">I'm Toprak, a full-time Frontend developer 👨‍💻 working since 2021 🚀</div>  
