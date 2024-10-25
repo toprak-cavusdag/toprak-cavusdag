@@ -89,11 +89,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
+## There is a troll face 
   
 
 <br/>  
