@@ -86,11 +86,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toprak-cavusdag&hide_border=true&layout=compact" align="center" /></div>  
 
-<br/>  
-
-
-## There is a troll face 
-  
+<br/>    
 
 <br/>  
 
@@ -98,6 +94,9 @@
 <img src="https://komarev.com/ghpvc/?username=toprak-cavusdag&&style=flat-square" align="center" />
 </div>  
   
+
+<br/>  
+## why are you still scrolling
 
 <br/>  
 
