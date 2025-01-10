@@ -98,9 +98,6 @@
 <h1>"Darth Vader’s Command Line"</h1> 
 <br/>  
 
-## - CodeTrooper
-
-<br/>  
 
 
 <br />
