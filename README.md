@@ -4,7 +4,7 @@
 ### <div align="center">I'm Toprak, a full-time Frontend developer 👨‍💻 working since 2021 🚀</div>  
   
 
-- 🌱 I’m currently learning Node.js and Next.js  
+- 🌱 I’m currently learning React Native, Docker and Next.js  
   
 
 - ❓ Ask me about anything related to Frontend and related technologies  
