@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/75522385?v=4" width="150" height="150" alt="Toprak Çavuşdağ — GitHub profile picture" />
+
 
 # Toprak Çavuşdağ
 
