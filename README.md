@@ -1,98 +1,68 @@
+<div align="center">
 
-  
+# Toprak Çavuşdağ
 
-### <div align="center">I'm Toprak, a full-time Frontend developer 👨‍💻 working since 2021 🚀</div>  
-  
+**Frontend Developer · React & TypeScript · MERN Ecosystem**
 
-- 🌱 I’m currently learning React Native, Docker and Next.js  
-  
+Building web interfaces with a focus on clarity, usability, and maintainable code.
 
-- ❓ Ask me about anything related to Frontend and related technologies  
-  
+[Website](http://toprakcavusdag.com/) · [LinkedIn](https://www.linkedin.com/in/toprak-cavusdag/tr/) · [Instagram](https://www.instagram.com/toprakcavusdag.js/) · [GitHub](https://github.com/toprak-cavusdag) · [Email](mailto:cavusdagtoprak58@gmail.com)
 
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="50%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="50%">
+---
 
+## About me
 
+I'm Toprak, a frontend developer based in Türkiye, working in web development since 2021. My main focus is the React ecosystem, with JavaScript and TypeScript for application development and experience with the MERN stack.
 
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-</div>
+I'm interested in the work that connects interface design with application behavior: component structure, state management, styling, and API integration. I also explore backend technologies to better understand how the frontend fits into a complete application.
 
+## Technology stack
 
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&amp;logo=tailwindcss&amp;logoColor=38BDF8" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
+</p>
 
+| Area | Technologies |
+| --- | --- |
+| Languages & web foundations | JavaScript, TypeScript, HTML, CSS |
+| Frontend frameworks | React, Angular |
+| State management | Redux |
+| Styling | Tailwind CSS, Sass, Bootstrap |
+| Backend & data | Node.js, Express.js, MongoDB, Firebase |
+| Development tools | Git, Linux, Bash |
+| Desktop development | Electron |
 
-</td></tr></table>  
+<details>
+<summary>Additional technologies I've explored</summary>
 
-<br/>  
+C#, Java, and Arduino.
 
+</details>
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/toprak-cavusdag" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/toprakcavusdag" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/toprak-çavuşdağ-5184aa208" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/channel/UCj66X-fJeHopzXoaR8dS2cQ" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+## Engineering priorities
 
-<br/>  
+The principles I aim to bring to my frontend work:
 
+- **Clear component boundaries:** keep components focused and make shared UI reusable.
+- **Usable interfaces:** consider responsive layouts, semantic HTML, keyboard navigation, and readable content.
+- **Predictable application behavior:** handle loading, empty, and error states alongside the main flow.
+- **Maintainable code:** favor clear naming, consistent structure, and straightforward solutions.
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toprak-cavusdag&hide_border=true&layout=compact" align="center" /></div>  
+## Currently exploring
 
-<br/>    
+- **Next.js:** React application architecture and rendering approaches.
+- **React Native:** bringing React concepts to mobile interfaces.
+- **Docker:** containers and consistent development environments.
 
-<br/>  
+## Get in touch
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=toprak-cavusdag&&style=flat-square" align="center" />
-</div>  
-  
-<br/>  
+For frontend discussions, project inquiries, or collaboration, reach me on [LinkedIn](https://www.linkedin.com/in/toprak-cavusdag/tr/) or email **[cavusdagtoprak58@gmail.com](mailto:cavusdagtoprak58@gmail.com)**.
 
-<   
+You can also find me on [Instagram](https://www.instagram.com/toprakcavusdag.js/), [X](https://twitter.com/toprakcavusdag) and [YouTube](https://www.youtube.com/channel/UCj66X-fJeHopzXoaR8dS2cQ).
